@@ -124,6 +124,7 @@ class StockEntryCreate(BaseModel):
     from_warehouse: Optional[str] = None
     to_warehouse: Optional[str] = None
     idempotency_key: Optional[str] = None
+    user_name: Optional[str] = None  # Name of user performing the transaction
 
 # API Routes
 
@@ -307,7 +308,7 @@ async def create_stock_entry(entry: StockEntryCreate):
             }
             for item in entry.items
         ],
-        "remarks": f"WMS Transfer {unique_ref} - {entry.idempotency_key or 'manual'}"
+        "remarks": f"WMS Transaction by {entry.user_name or 'Unknown'} - {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} - Ref: {unique_ref}"
     }
     
     try:

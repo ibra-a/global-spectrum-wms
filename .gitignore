@@ -51,3 +51,6 @@ logs/
 
 # Railway
 .railway/
+
+# Exclude PWA (has its own git repo for Vercel)
+wms-pwa/
