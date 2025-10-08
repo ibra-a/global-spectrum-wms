@@ -1,0 +1,23 @@
+{
+  "name": "global-spectrum-wms",
+  "version": "1.0.0",
+  "description": "Global Spectrum Warehouse Management System - ERPNext Integration",
+  "main": "index.js",
+  "scripts": {
+    "test:erpnext": "node scripts/erpnext-api-test.js",
+    "setup:custom-fields": "node scripts/add-custom-fields-v2.js",
+    "install:bmad": "cd BMAD-METHOD && npm run install:bmad"
+  },
+  "keywords": [
+    "wms",
+    "erpnext",
+    "barcode",
+    "warehouse"
+  ],
+  "author": "Global Spectrum",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
+

@@ -1,0 +1,122 @@
+[
+  {
+    "barcode": "S1-A1",
+    "full_name": "Section 1 - A1 - GSS",
+    "section": "Section 1",
+    "location_type": "Open Shelving"
+  },
+  {
+    "barcode": "S1-A2",
+    "full_name": "Section 1 - A2 - GSS",
+    "section": "Section 1",
+    "location_type": "Open Shelving"
+  },
+  {
+    "barcode": "S1-A3",
+    "full_name": "Section 1 - A3 - GSS",
+    "section": "Section 1",
+    "location_type": "Open Shelving"
+  },
+  {
+    "barcode": "S1-A4",
+    "full_name": "Section 1 - A4 - GSS",
+    "section": "Section 1",
+    "location_type": "Open Shelving"
+  },
+  {
+    "barcode": "S1-A5",
+    "full_name": "Section 1 - A5 - GSS",
+    "section": "Section 1",
+    "location_type": "Open Shelving"
+  },
+  {
+    "barcode": "S1-A6",
+    "full_name": "Section 1 - A6 - GSS",
+    "section": "Section 1",
+    "location_type": "Open Shelving"
+  },
+  {
+    "barcode": "S1-A7",
+    "full_name": "Section 1 - A7 - GSS",
+    "section": "Section 1",
+    "location_type": "Open Shelving"
+  },
+  {
+    "barcode": "S1-A8",
+    "full_name": "Section 1 - A8 - GSS",
+    "section": "Section 1",
+    "location_type": "Open Shelving"
+  },
+  {
+    "barcode": "S1-A9",
+    "full_name": "Section 1 - A9 - GSS",
+    "section": "Section 1",
+    "location_type": "Open Shelving"
+  },
+  {
+    "barcode": "S1-A10",
+    "full_name": "Section 1 - A10 - GSS",
+    "section": "Section 1",
+    "location_type": "Open Shelving"
+  },
+  {
+    "barcode": "S1-A11",
+    "full_name": "Section 1 - A11 - GSS",
+    "section": "Section 1",
+    "location_type": "Open Shelving"
+  },
+  {
+    "barcode": "S1-A12",
+    "full_name": "Section 1 - A12 - GSS",
+    "section": "Section 1",
+    "location_type": "Open Shelving"
+  },
+  {
+    "barcode": "S1-A13",
+    "full_name": "Section 1 - A13 - GSS",
+    "section": "Section 1",
+    "location_type": "Open Shelving"
+  },
+  {
+    "barcode": "S1-A14",
+    "full_name": "Section 1 - A14 - GSS",
+    "section": "Section 1",
+    "location_type": "Open Shelving"
+  },
+  {
+    "barcode": "S1-A15",
+    "full_name": "Section 1 - A15 - GSS",
+    "section": "Section 1",
+    "location_type": "Open Shelving"
+  },
+  {
+    "barcode": "S1-A16",
+    "full_name": "Section 1 - A16 - GSS",
+    "section": "Section 1",
+    "location_type": "Open Shelving"
+  },
+  {
+    "barcode": "S1-B1",
+    "full_name": "Section 1 - B1 - GSS",
+    "section": "Section 1",
+    "location_type": "Open Shelving"
+  },
+  {
+    "barcode": "S1-B2",
+    "full_name": "Section 1 - B2 - GSS",
+    "section": "Section 1",
+    "location_type": "Open Shelving"
+  },
+  {
+    "barcode": "S1-B3",
+    "full_name": "Section 1 - B3 - GSS",
+    "section": "Section 1",
+    "location_type": "Open Shelving"
+  },
+  {
+    "barcode": "S1-B4",
+    "full_name": "Section 1 - B4 - GSS",
+    "section": "Section 1",
+    "location_type": "Open Shelving"
+  }
+]

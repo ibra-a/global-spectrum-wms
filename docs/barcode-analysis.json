@@ -1,0 +1,63 @@
+{
+  "timestamp": "2025-10-06T08:46:20.199Z",
+  "erpnext_url": "https://globalspectrumsarl.frappe.cloud",
+  "summary": {
+    "total_items_with_barcodes": 0,
+    "total_barcode_entries": 0,
+    "total_warehouses": 6,
+    "location_warehouses": 0,
+    "bins_with_inventory": 100,
+    "needs_location_import": true
+  },
+  "item_barcodes": [],
+  "barcode_entries": [],
+  "warehouses": [
+    {
+      "name": "All Warehouses - GSS",
+      "warehouse_name": "All Warehouses",
+      "parent_warehouse": null,
+      "warehouse_type": null,
+      "disabled": 0
+    },
+    {
+      "name": "Finished Goods - GSS",
+      "warehouse_name": "Finished Goods",
+      "parent_warehouse": "All Warehouses - GSS",
+      "warehouse_type": null,
+      "disabled": 0
+    },
+    {
+      "name": "Goods In Transit - GSS",
+      "warehouse_name": "Goods In Transit",
+      "parent_warehouse": "All Warehouses - GSS",
+      "warehouse_type": "Transit",
+      "disabled": 0
+    },
+    {
+      "name": "Raw Materials - GSS",
+      "warehouse_name": "Raw Materials - GSS",
+      "parent_warehouse": "All Warehouses - GSS",
+      "warehouse_type": null,
+      "disabled": 0
+    },
+    {
+      "name": "Stores - GSS",
+      "warehouse_name": "Stores",
+      "parent_warehouse": "All Warehouses - GSS",
+      "warehouse_type": null,
+      "disabled": 0
+    },
+    {
+      "name": "Work In Progress - GSS",
+      "warehouse_name": "Work In Progress",
+      "parent_warehouse": "All Warehouses - GSS",
+      "warehouse_type": null,
+      "disabled": 0
+    }
+  ],
+  "location_warehouses": [],
+  "recommendations": [
+    "Import warehouse locations from CSV",
+    "Add barcodes to items or use item_code"
+  ]
+}

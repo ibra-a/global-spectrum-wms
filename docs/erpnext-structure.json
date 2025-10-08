@@ -1,0 +1,54 @@
+{
+  "timestamp": "2025-10-06T09:14:56.809Z",
+  "erpnext_url": "https://globalspectrumsarl.frappe.cloud",
+  "warehouses": [
+    {
+      "name": "All Warehouses - GSS",
+      "warehouse_name": "All Warehouses",
+      "parent_warehouse": null,
+      "is_group": 1,
+      "disabled": 0
+    },
+    {
+      "name": "Finished Goods - GSS",
+      "warehouse_name": "Finished Goods",
+      "parent_warehouse": "All Warehouses - GSS",
+      "is_group": 0,
+      "disabled": 0
+    },
+    {
+      "name": "Goods In Transit - GSS",
+      "warehouse_name": "Goods In Transit",
+      "parent_warehouse": "All Warehouses - GSS",
+      "is_group": 0,
+      "disabled": 0
+    },
+    {
+      "name": "Raw Materials - GSS",
+      "warehouse_name": "Raw Materials - GSS",
+      "parent_warehouse": "All Warehouses - GSS",
+      "is_group": 0,
+      "disabled": 0
+    },
+    {
+      "name": "Stores - GSS",
+      "warehouse_name": "Stores",
+      "parent_warehouse": "All Warehouses - GSS",
+      "is_group": 0,
+      "disabled": 0
+    },
+    {
+      "name": "Work In Progress - GSS",
+      "warehouse_name": "Work In Progress",
+      "parent_warehouse": "All Warehouses - GSS",
+      "is_group": 0,
+      "disabled": 0
+    }
+  ],
+  "bins": 393,
+  "summary": {
+    "total_warehouses": 6,
+    "total_bins": 393,
+    "sections_found": 0
+  }
+}

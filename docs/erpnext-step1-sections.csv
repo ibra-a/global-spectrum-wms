@@ -1,0 +1,6 @@
+name,warehouse_name,parent_warehouse,is_group,company,disabled
+"Section 1 - GSS","Section 1","Raw Materials - GSS",1,"Global Spectrum SARL",0
+"Section 2 - GSS","Section 2","Raw Materials - GSS",1,"Global Spectrum SARL",0
+"Section 3 - GSS","Section 3","Raw Materials - GSS",1,"Global Spectrum SARL",0
+"Section 5 - GSS","Section 5","Raw Materials - GSS",1,"Global Spectrum SARL",0
+"Central Rack - GSS","Central Rack","Raw Materials - GSS",1,"Global Spectrum SARL",0
